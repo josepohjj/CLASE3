@@ -1,0 +1,25 @@
+table, td, th {
+    border: 1px solid black;
+}
+td, th{
+    padding: 10px;
+}
+table{
+    background-color:azure;
+    
+}
+
+div{
+    background-color: aqua;
+    width: 240px;
+    height: 200px;
+    padding: 20px;
+    
+}
+#Stephen{
+    background-color: brown;
+}
+.Jusuf{
+    color: chocolate;
+    background-color: black;
+}
